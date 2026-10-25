@@ -17,7 +17,7 @@ I work on product reliability and build practical software as personal projects.
 
 | Project | What you'll find | Explore |
 | :--- | :--- | :--- |
-| **Game Library** | A collection of 335 browser games, from puzzles to arcade experiments. | [Play](https://juwpegatron.github.io/gamelib/) · [Source](https://github.com/juwpegatron/gamelib) |
+| **Game Library** | A collection of 334 browser games, from puzzles to arcade experiments. | [Play](https://juwpegatron.github.io/gamelib/) · [Source](https://github.com/juwpegatron/gamelib) |
 | **Loka Translate** | A Windows translation prototype using a local Ollama model for English, Chinese and Bahasa Indonesia. | [Overview & downloads](https://juwpegatron.github.io/projects/loka-translate/) · [Source](https://github.com/juwpegatron/projects/tree/main/apps/loka-translate) |
 | **Trade Twin** | A paper-trading and planning experiment. A learning prototype, not financial advice or an investment service. | [Web demo](https://juwpegatron.github.io/projects/trade-twin/) · [Source](https://github.com/juwpegatron/projects/tree/main/apps/trade-twin) |
 | **Peers** | An offline-first review interface with category-based exploration. | [Web demo](https://juwpegatron.github.io/projects/peers/) · [Source](https://github.com/juwpegatron/projects/tree/main/apps/peers) |
